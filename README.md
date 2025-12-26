@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 My name's Foster and I am a Computer Science student at SFSU.
 
 Currently, I am finishing my last semester at college and applying for web developer jobs for Fall 2026.
+
  
 🎨 Primary interests:
 - Web Development
