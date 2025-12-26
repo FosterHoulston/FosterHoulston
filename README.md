@@ -5,10 +5,18 @@
 
 Here are some ideas to get you started:
 -->
+My name's Foster and I am a Computer Science student at SFSU.
+
+Currently, I am finishing my last semester at college and applying for web developer jobs for Fall 2026.
+ 
+🎨 Primary interests:
+- Web Development
+- Cybersecurity
+- Generative AI 
+
 🔭 I’m currently working on:
 - A Monkeytype fork designated for Vim users.
 - A vendor-client retail repeat purchase web app
-- My last semester of college (Bachelor's in Computer Science)
  
 🌱 I’m currently learning:
 - C language
