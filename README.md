@@ -17,6 +17,7 @@ Currently, I am finishing my last semester at college and applying for web devel
 
 🔭 I’m currently working on:
 - A Monkeytype fork designated for Vim users.
+- A Github web app that scans users' and organizations' repositories for dependency vulnerabilities 
 - A vendor-client retail repeat purchase web app
  
 🌱 I’m currently learning:
