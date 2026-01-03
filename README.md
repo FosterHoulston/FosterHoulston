@@ -21,8 +21,13 @@ Currently, I am finishing my last semester at college and applying for web devel
 - A vendor-client retail repeat purchase web app
  
 🌱 I’m currently learning:
-- C language
+- C
 - Operating system design
+- Docker
+- ec2
+- nginx
+- PM2
+- Redis
 
 <!--
 👯 I’m looking to collaborate on:
