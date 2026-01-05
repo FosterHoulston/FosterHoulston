@@ -1,33 +1,38 @@
-## Hi there 👋
+## Hi, I'm Foster 👋
 
 <!--
 **FosterHoulston/FosterHoulston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-My name's Foster and I am a Computer Science student at SFSU.
+Computer Science student at San Francisco State University (SFSU) | Finishing my last semester and applying for **Web Developer roles (Fall 2026)**
 
-Currently, I am finishing my last semester at college and applying for web developer jobs for Fall 2026.
-
- 
-🎨 Primary interests:
+🎯 **Interests**
 - Web Development
 - Cybersecurity
-- Generative AI 
+- Generative AI
 
-🔭 I’m currently working on:
-- A Monkeytype fork designated for Vim users.
-- A Github web app that scans users' and organizations' repositories for dependency vulnerabilities 
-- A vendor-client retail repeat purchase web app
- 
-🌱 I’m currently learning:
-- C
-- Operating system design
-- Docker
-- ec2
-- nginx
-- PM2
-- Redis
+🔭 **Currently building**
+- **Vimtype**: a Monkeytype fork designed for Vim users (real Vim keys, typing-focused scoring)
+- **GitHub security app**: scans org repos for **dependency vulnerabilities** (lockfile-aware scanning, reporting)
+- **Resupply Rocket**: a vendor↔client repeat-purchase web app (catalogs, shopping lists, re-orders)
+
+🌱 **Currently learning**
+- Systems: **C**, operating system design
+- DevOps: **Docker**, **EC2**, **Nginx**, **PM2**, **Redis**
+
+🛠️ **Tech I use**
+- **Frontend:** TypeScript, Vue, Vuetify, HTML, CSS, JavaScript
+- **Backend:** Node.js, Python, Flask
+- **Databases:** MySQL, MariaDB, MongoDB, ChromaDB
+- **DevOps / Tools:** Docker, Redis, Git, Debian, Firebase, PNPM, NVM, Xterm.js
+
+📫 **How to reach me**
+- 💼 LinkedIn: www.linkedin.com/in/foster-houlston
+- 🧑‍💻 GitHub: github.com/FosterHoulston
+
+
+
 
 <!--
 👯 I’m looking to collaborate on:
@@ -37,3 +42,4 @@ Currently, I am finishing my last semester at college and applying for web devel
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
