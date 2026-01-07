@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-Computer Science student at San Francisco State University (SFSU) | Finishing my last semester and applying for **Web Developer roles (Fall 2026)**
+Computer Science student at San Francisco State University (SFSU). Finishing my last semester and applying for **Web Developer roles (Fall 2026)**
 
 🎯 **Interests**
 - Web Development
