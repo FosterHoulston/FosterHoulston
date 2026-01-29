@@ -13,7 +13,7 @@ Computer Science student at San Francisco State University (SFSU). Finishing my 
 - Generative AI
 
 🏁 **Completed Projects**
-- **quickgoal** officially launched the MVP for my personal goal tracking web app.
+- **quickgoal**: officially launched the MVP for my personal goal tracking web app.
 
 🔭 **Currently building**
 - **Vimtype**: a Monkeytype fork designed for Vim users (real Vim keys, typing-focused scoring)
