@@ -12,7 +12,7 @@ Computer Science student at San Francisco State University (SFSU). Finishing my 
 - Cybersecurity
 - Generative AI
 
-🏁 **Recently Completed Projects**
+🏁 **Completed Projects**
 - **quickgoal** officially launched the MVP for my personal goal tracking web app.
 
 🔭 **Currently building**
