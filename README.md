@@ -26,7 +26,7 @@ Graduate of Computer Science at San Francisco State University. Preparing for **
 🛠️ **Tech I use**
 - **Frontend:** TypeScript, React, Tailwind, HTML, CSS, JavaScript
 - **Backend:** Node.js, Python, Flask
-- **OS** C, C++
+- **Systems** C, C++
 - **Databases:** MySQL, MariaDB, MongoDB, ChromaDB
 - **DevOps / Tools:** Docker, Redis, Git, Debian, Firebase, PNPM, NVM, Xterm.js
 
