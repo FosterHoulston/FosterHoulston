@@ -20,7 +20,8 @@ Graduate of Computer Science at San Francisco State University. Preparing for **
 - **Vimtype**: a web app for Vim users to improve their programming speed (browser-based Vim WASM integration)
 
 🌱 **Currently learning**
-- Systems: **C**, operating system design
+- Systems: operating system design
+- Databases: **Postgresql**
 - DevOps: **Docker**, **EC2**, **Nginx**, **PM2**, **Redis**
 
 🛠️ **Tech I use**
