@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-Graduate of Computer Science at San Francisco State University. Preparing for **Software Engineer roles (Fall 2026)**
+Graduate of Computer Science from SFSU. Preparing for **Software Engineer roles (Fall 2026)**
 
 🎯 **Interests**
 - Systems Engineering
