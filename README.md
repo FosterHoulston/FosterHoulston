@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-Graduate of Computer Science at San Francisco State University. Preparing for **Systems Engineer roles (Fall 2026)**
+Graduate of Computer Science at San Francisco State University. Preparing for **Software Engineer roles (Fall 2026)**
 
 🎯 **Interests**
 - Systems Engineering
 - Software Engineering
-- Generative AI
+- E-Mobility
+- Embedded Systems
 
 🏁 **Completed Projects**
 - **quickgoal**: officially launched the beta release for my personal goal tracking web app.
@@ -22,14 +23,14 @@ Graduate of Computer Science at San Francisco State University. Preparing for **
 🌱 **Currently learning**
 - Systems: operating system design
 - Databases: **Postgresql**
-- DevOps: **Docker**, **EC2**, **Nginx**, **PM2**, **Redis**
+- DevOps: **Docker**, **AWS EC2**, **Nginx**, **PM2**, **Redis**
 
 🛠️ **Tech I use**
 - **Frontend:** TypeScript, React, Tailwind, HTML, CSS, JavaScript
 - **Backend:** Node.js, Python, Flask
 - **Systems** C, C++
 - **Databases:** MySQL, MariaDB, MongoDB, ChromaDB
-- **DevOps / Tools:** Docker, Redis, Git, Debian, Firebase, PNPM, NVM, Xterm.js
+- **DevOps / Tools:** Docker, Redis, Git, Debian, Firebase, PNPM, NVM
 
 📫 **How to reach me**
 - 💼 LinkedIn: www.linkedin.com/in/foster-houlston
